@@ -1,5 +1,5 @@
-# LeetCode-DCC-October-2023
-Daily Coding Challenge September 2023
+# LeetCode-DCC
+Daily Coding Challenge
 ## Solutions of All Problem Statments
 #### This Repository Contains 
 * Problem Statement with Examples
